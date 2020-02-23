@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wvs-project/static/css/main.028806dc.chunk.css",
-    "main.js": "/wvs-project/static/js/main.0bf374b5.chunk.js",
-    "main.js.map": "/wvs-project/static/js/main.0bf374b5.chunk.js.map",
+    "main.js": "/wvs-project/static/js/main.152c05b9.chunk.js",
+    "main.js.map": "/wvs-project/static/js/main.152c05b9.chunk.js.map",
     "runtime-main.js": "/wvs-project/static/js/runtime-main.29309e56.js",
     "runtime-main.js.map": "/wvs-project/static/js/runtime-main.29309e56.js.map",
     "static/js/2.6ed955a1.chunk.js": "/wvs-project/static/js/2.6ed955a1.chunk.js",
     "static/js/2.6ed955a1.chunk.js.map": "/wvs-project/static/js/2.6ed955a1.chunk.js.map",
     "index.html": "/wvs-project/index.html",
-    "precache-manifest.a8b7cecdb9856bbc67c609f133f51fa2.js": "/wvs-project/precache-manifest.a8b7cecdb9856bbc67c609f133f51fa2.js",
+    "precache-manifest.fda6986c2bf9fdff64aa0723ea4286aa.js": "/wvs-project/precache-manifest.fda6986c2bf9fdff64aa0723ea4286aa.js",
     "service-worker.js": "/wvs-project/service-worker.js",
     "static/css/main.028806dc.chunk.css.map": "/wvs-project/static/css/main.028806dc.chunk.css.map",
     "static/js/2.6ed955a1.chunk.js.LICENSE.txt": "/wvs-project/static/js/2.6ed955a1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.29309e56.js",
     "static/js/2.6ed955a1.chunk.js",
     "static/css/main.028806dc.chunk.css",
-    "static/js/main.0bf374b5.chunk.js"
+    "static/js/main.152c05b9.chunk.js"
   ]
 }
