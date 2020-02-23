@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wvs-project/static/css/main.65a7f845.chunk.css",
+    "main.js": "/wvs-project/static/js/main.326d43b0.chunk.js",
+    "main.js.map": "/wvs-project/static/js/main.326d43b0.chunk.js.map",
+    "runtime-main.js": "/wvs-project/static/js/runtime-main.29309e56.js",
+    "runtime-main.js.map": "/wvs-project/static/js/runtime-main.29309e56.js.map",
+    "static/js/2.816a2535.chunk.js": "/wvs-project/static/js/2.816a2535.chunk.js",
+    "static/js/2.816a2535.chunk.js.map": "/wvs-project/static/js/2.816a2535.chunk.js.map",
+    "index.html": "/wvs-project/index.html",
+    "precache-manifest.d6c0c36fbdac6b68119e4ab6891960d1.js": "/wvs-project/precache-manifest.d6c0c36fbdac6b68119e4ab6891960d1.js",
+    "service-worker.js": "/wvs-project/service-worker.js",
+    "static/css/main.65a7f845.chunk.css.map": "/wvs-project/static/css/main.65a7f845.chunk.css.map",
+    "static/js/2.816a2535.chunk.js.LICENSE.txt": "/wvs-project/static/js/2.816a2535.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29309e56.js",
+    "static/js/2.816a2535.chunk.js",
+    "static/css/main.65a7f845.chunk.css",
+    "static/js/main.326d43b0.chunk.js"
+  ]
+}
